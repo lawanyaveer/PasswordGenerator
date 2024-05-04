@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "passwordGenerator",
+            "request": "launch",
+            "mainClass": "passwordGenerator",
+            "projectName": "PasswordGeneratorApplication_cdcb9712"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
